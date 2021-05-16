@@ -186,6 +186,8 @@ input[type=submit]:active
 header{
     background-image:-o-linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.712)),url(img/hero.jpg) ;
     background-image:-webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.712)),to(rgba(0, 0, 0, 0.712))),url(img/hero.jpg) ;
+    background-image:-moz-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.712)),to(rgba(0, 0, 0, 0.712))),url(img/hero.jpg) ;
+
     background-image:-o-linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.712)),url(img/hero.jpg) ;
     background-image:linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.712)),url(img/hero.jpg) ;
     height: 100vh;
